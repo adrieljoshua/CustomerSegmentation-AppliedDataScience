@@ -30,14 +30,19 @@
 **Problem Explanation:** You own the mall and want to understand the customers, like those who can easily converge [Target Customers], so that sense can be given to the marketing team and the strategy can be planned accordingly.
 
 **Columns used for the Customer Segmentation Dataset:**
+
 Customer ID:
  A unique identifier for each customer. 
+
 Gender:
  Gender helps identify the customer's biological sex.
+
 Age: 
 It indicates the customer’s age group.
+
 Annual income:
  It represents the customer’s yearly earnings.
+
 Spending Score:
  Spending score reflects the customer’s tendency to spend money.
 
