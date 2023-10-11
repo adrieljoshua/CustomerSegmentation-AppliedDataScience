@@ -31,19 +31,19 @@
 
 **Columns used for the Customer Segmentation Dataset:**
 
-Customer ID:
+- Customer ID:
  A unique identifier for each customer. 
 
-Gender:
+- Gender:
  Gender helps identify the customer's biological sex.
 
-Age: 
+- Age: 
 It indicates the customer’s age group.
 
-Annual income:
+- Annual income:
  It represents the customer’s yearly earnings.
 
-Spending Score:
+- Spending Score:
  Spending score reflects the customer’s tendency to spend money.
 
 **Libraries used:**
