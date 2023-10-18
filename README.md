@@ -75,7 +75,9 @@ Spending score is a metric used to assess and quantify a customer's purchasing b
 
 
 3.2  Loading the dataset
+
 3.3  Preprocessing Dataset
+
 3.4  Performing different analysis
 
 
