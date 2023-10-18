@@ -7,7 +7,7 @@
 
 **Project Steps**
 
-**Phase 1:** Problem Definition and Design Thinking
+<div align=center>**Phase 1:** Problem Definition and Design Thinking</div>
 
 **Problem Definition:** The problem is to implement data science techniques to segment customers based on their behavior, preferences, and demographic attributes. The goal is to enable businesses to personalize marketing strategies and enhance customer satisfaction. This project involves data collection, data preprocessing, feature engineering, clustering algorithms, visualization, and interpretation of results.
 
