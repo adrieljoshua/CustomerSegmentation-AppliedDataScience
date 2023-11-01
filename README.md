@@ -81,7 +81,7 @@ Spending score is a metric used to assess and quantify a customer's purchasing b
 3.4  Performing different analysis
 
 
-<div align=center>Phase 34: Development Part 2</div>
+<div align=center>Phase 4: Development Part 2</div>
 
 Performing K-Means Clustering on given data
 
