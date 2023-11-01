@@ -81,4 +81,22 @@ Spending score is a metric used to assess and quantify a customer's purchasing b
 3.4  Performing different analysis
 
 
+<div align=center>Phase 34: Development Part 2</div>
+
+Performing K-Means Clustering on given data
+
+K-Means Clustering: 
+
+
+K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters. Here K defines the number of predefined clusters that need to be created in the process, as if K=2, there will be two clusters, and for K=3, there will be three clusters, and so on.
+
+
+Cost Function: Inertia is a metric used to evaluate the quality of a clustering algorithm, particularly the K-means algorithm. It measures the sum of squared distances between each data point and its assigned centroid. In other words, it measures how far the data points are from their assigned cluster centers.
+
+
+The K-means algorithm tries to minimize the inertia by iteratively updating the cluster centers until the inertia cannot be reduced any further. A lower inertia value indicates that the clusters are more compact and well-separated, while a higher inertia value indicates that the clusters are more spread out and overlapping.
+
+
+
+
 
